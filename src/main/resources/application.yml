@@ -1,0 +1,3 @@
+api:
+    key: #GET YOU OWN API KEY AT https://www.themoviedb.org
+    themoviedb: https://api.themoviedb.org/3
